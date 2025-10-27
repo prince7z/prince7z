@@ -1,4 +1,4 @@
-<img alt="typing" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0D1117&center=true&vCenter=true&width=550&lines=Hi,+I'm+Prince+Sahu;Full+Stack+Developer+%7C+Backend+Specialist+%7C+Stepping+into+Blockchain" />
+<img alt="typing" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=0D1117&width=550&lines=Hi,+I'm+Prince+Sahu;FullStack+Developer+%7C+Backend+Specialist" />
 
 
 <h3 align="left">Connect with me:</h3>
