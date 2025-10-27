@@ -1,12 +1,9 @@
 <div align="center">
-  # Hi, I'm Prince Sahu
-</div>
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&pause=1000&color=Black&width=550&lines=FullStack+Developer;Backend+Specialist;Building+Trustless+Systems" alt="Typing SVG" />
-</div>
+  <h3>Hi, I'm Prince Sahu</h3>
 
-<p align="center">FullStack Developer specializing in Backend Engineering, database design, networking, blockchain, and DApps.</p>
+  <p align="center">FullStack Developer specializing in Backend Engineering, database design, networking, blockchain, and DApps.</p>
 
+</div>
 <div align="center">
   <h3>Connect with Me</h3>
 </div>
