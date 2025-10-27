@@ -1,7 +1,8 @@
-# Hi, I'm Prince Sahu
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&pause=1000&color=2F80ED&width=550&lines=FullStack+Developer;Backend+Specialist;Building+Trustless+Systems" alt="Typing SVG" />
+  # Hi, I'm Prince Sahu
+</div>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&pause=1000&color=Black&width=550&lines=FullStack+Developer;Backend+Specialist;Building+Trustless+Systems" alt="Typing SVG" />
 </div>
 
 <p align="center">FullStack Developer specializing in Backend Engineering, database design, networking, blockchain, and DApps.</p>
@@ -10,7 +11,7 @@
   <h3>Connect with Me</h3>
 </div>
 
-<p align="left">
+<p align="center">
   <a href="https://twitter.com/princesahu69495" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
